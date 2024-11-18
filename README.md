@@ -1,4 +1,4 @@
-# Frontend (Admin Dashboard)
+# Frontend (Translation Portal)
 
 This project is the frontend for the Admin Dashboard, built with React.js.
 
